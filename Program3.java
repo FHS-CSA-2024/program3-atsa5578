@@ -30,6 +30,12 @@ public class Program3{
 
 //Paste console output below:
 /*
+Enter the length: 
+30
+Enter the width: 
+40
+The length is: 30
+The width is: 40
 
 
 */
