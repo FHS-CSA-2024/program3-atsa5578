@@ -20,9 +20,13 @@ public class Program3{
         System.out.println("Enter the width: ");
         width = numScanner.nextInt();
         //calculate area perimeter
+        area = length * width;
+        perimeter = 2 * length + 2 * width;
         //print results
         System.out.println("The length is: " + length);
         System.out.println("The width is: " + width);
+        System.out.println("The area is: " + area);
+        System.out.println("The perimeter is: " + perimeter);
     }
 }
 
