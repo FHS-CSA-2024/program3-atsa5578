@@ -40,6 +40,7 @@ Enter the width:
 40
 The length is: 30
 The width is: 40
-
+The area is: 1200
+The perimeter is: 140
 
 */
